@@ -574,9 +574,18 @@
     "source_text": "\"And you're mine!\" said Achilles.",
     "description": "The two friends face one another and clasp forearms, expressing their mutual best friendship.",
     "alt": "The two friends face one another and clasp forearms, expressing their mutual best friendship.",
-    "status": "planned",
+    "status": "integrated",
     "batch": 4,
-    "tile": 1
+    "tile": 1,
+    "asset": "assets/ch03-sc07.webp",
+    "width": 410,
+    "height": 410,
+    "grid": "source_images/batch-04-tiles-1-2-3-4-5-6-7-8-9.png",
+    "native_grid_size": [
+      1254,
+      1254
+    ],
+    "review_note": "All nine panels individually inspected at native size: joined hands have two clear wrists and owners, walking figures have separate hips and legs, shoulder-touch hands attach to Achilles own arm, Agamemnon pointing and grasping limbs trace correctly. Original bronze armor navy cape consistent; no new golden armor prematurely. No anatomy defects found."
   },
   {
     "id": "ch03-sc08",
@@ -586,9 +595,18 @@
     "source_text": "They were like two brothers.",
     "description": "Achilles and Patroclus walk shoulder to shoulder like brothers along the Greek coast.",
     "alt": "Achilles and Patroclus walk shoulder to shoulder like brothers along the Greek coast.",
-    "status": "planned",
+    "status": "integrated",
     "batch": 4,
-    "tile": 2
+    "tile": 2,
+    "asset": "assets/ch03-sc08.webp",
+    "width": 410,
+    "height": 410,
+    "grid": "source_images/batch-04-tiles-1-2-3-4-5-6-7-8-9.png",
+    "native_grid_size": [
+      1254,
+      1254
+    ],
+    "review_note": "All nine panels individually inspected at native size: joined hands have two clear wrists and owners, walking figures have separate hips and legs, shoulder-touch hands attach to Achilles own arm, Agamemnon pointing and grasping limbs trace correctly. Original bronze armor navy cape consistent; no new golden armor prematurely. No anatomy defects found."
   },
   {
     "id": "ch03-sc09",
@@ -598,9 +616,18 @@
     "source_text": "It was called the Trojan War.",
     "description": "Wide distant establishing view of Trojan War: Greek army at seaside facing the far sandstone walls of Troy, no fighting detail.",
     "alt": "Wide distant establishing view of Trojan War: Greek army at seaside facing the far sandstone walls of Troy, no fighting detail.",
-    "status": "planned",
+    "status": "integrated",
     "batch": 4,
-    "tile": 3
+    "tile": 3,
+    "asset": "assets/ch03-sc09.webp",
+    "width": 410,
+    "height": 410,
+    "grid": "source_images/batch-04-tiles-1-2-3-4-5-6-7-8-9.png",
+    "native_grid_size": [
+      1254,
+      1254
+    ],
+    "review_note": "All nine panels individually inspected at native size: joined hands have two clear wrists and owners, walking figures have separate hips and legs, shoulder-touch hands attach to Achilles own arm, Agamemnon pointing and grasping limbs trace correctly. Original bronze armor navy cape consistent; no new golden armor prematurely. No anatomy defects found."
   },
   {
     "id": "ch03-sc10",
@@ -610,9 +637,18 @@
     "source_text": "Achilles and Patroclus went together.",
     "description": "Achilles in original bronze armor navy cape and Patroclus in blue tunic travel to war together toward Greek tents.",
     "alt": "Achilles in original bronze armor navy cape and Patroclus in blue tunic travel to war together toward Greek tents.",
-    "status": "planned",
+    "status": "integrated",
     "batch": 4,
-    "tile": 4
+    "tile": 4,
+    "asset": "assets/ch03-sc10.webp",
+    "width": 410,
+    "height": 410,
+    "grid": "source_images/batch-04-tiles-1-2-3-4-5-6-7-8-9.png",
+    "native_grid_size": [
+      1254,
+      1254
+    ],
+    "review_note": "All nine panels individually inspected at native size: joined hands have two clear wrists and owners, walking figures have separate hips and legs, shoulder-touch hands attach to Achilles own arm, Agamemnon pointing and grasping limbs trace correctly. Original bronze armor navy cape consistent; no new golden armor prematurely. No anatomy defects found."
   },
   {
     "id": "ch03-sc11",
@@ -622,9 +658,18 @@
     "source_text": "\"Stay close to me,\" said Achilles.",
     "description": "At the camp Achilles gestures for Patroclus to stay close, protective serious expression.",
     "alt": "At the camp Achilles gestures for Patroclus to stay close, protective serious expression.",
-    "status": "planned",
+    "status": "integrated",
     "batch": 4,
-    "tile": 5
+    "tile": 5,
+    "asset": "assets/ch03-sc11.webp",
+    "width": 410,
+    "height": 410,
+    "grid": "source_images/batch-04-tiles-1-2-3-4-5-6-7-8-9.png",
+    "native_grid_size": [
+      1254,
+      1254
+    ],
+    "review_note": "All nine panels individually inspected at native size: joined hands have two clear wrists and owners, walking figures have separate hips and legs, shoulder-touch hands attach to Achilles own arm, Agamemnon pointing and grasping limbs trace correctly. Original bronze armor navy cape consistent; no new golden armor prematurely. No anatomy defects found."
   },
   {
     "id": "ch03-sc12",
@@ -634,9 +679,18 @@
     "source_text": "But this war would change their lives forever.",
     "description": "Patroclus reassures Achilles with a brave smile before both look toward distant Troy, sunset uneasy mood.",
     "alt": "Patroclus reassures Achilles with a brave smile before both look toward distant Troy, sunset uneasy mood.",
-    "status": "planned",
+    "status": "integrated",
     "batch": 4,
-    "tile": 6
+    "tile": 6,
+    "asset": "assets/ch03-sc12.webp",
+    "width": 410,
+    "height": 410,
+    "grid": "source_images/batch-04-tiles-1-2-3-4-5-6-7-8-9.png",
+    "native_grid_size": [
+      1254,
+      1254
+    ],
+    "review_note": "All nine panels individually inspected at native size: joined hands have two clear wrists and owners, walking figures have separate hips and legs, shoulder-touch hands attach to Achilles own arm, Agamemnon pointing and grasping limbs trace correctly. Original bronze armor navy cape consistent; no new golden armor prematurely. No anatomy defects found."
   },
   {
     "id": "ch04-sc01",
@@ -646,9 +700,18 @@
     "source_text": "He was the leader of the army.",
     "description": "King Agamemnon, stocky black-haired square-bearded man in burgundy cape and bronze circlet, commands Greek soldiers at camp.",
     "alt": "King Agamemnon, stocky black-haired square-bearded man in burgundy cape and bronze circlet, commands Greek soldiers at camp.",
-    "status": "planned",
+    "status": "integrated",
     "batch": 4,
-    "tile": 7
+    "tile": 7,
+    "asset": "assets/ch04-sc01.webp",
+    "width": 410,
+    "height": 410,
+    "grid": "source_images/batch-04-tiles-1-2-3-4-5-6-7-8-9.png",
+    "native_grid_size": [
+      1254,
+      1254
+    ],
+    "review_note": "All nine panels individually inspected at native size: joined hands have two clear wrists and owners, walking figures have separate hips and legs, shoulder-touch hands attach to Achilles own arm, Agamemnon pointing and grasping limbs trace correctly. Original bronze armor navy cape consistent; no new golden armor prematurely. No anatomy defects found."
   },
   {
     "id": "ch04-sc02",
@@ -658,9 +721,18 @@
     "source_text": "He took a prize that belonged to Achilles.",
     "description": "Agamemnon claims Achilles prize at the command tent; Achilles watches angrily. Keep prize obscured, not a new invented trophy.",
     "alt": "Agamemnon claims Achilles prize at the command tent; Achilles watches angrily. Keep prize obscured, not a new invented trophy.",
-    "status": "planned",
+    "status": "integrated",
     "batch": 4,
-    "tile": 8
+    "tile": 8,
+    "asset": "assets/ch04-sc02.webp",
+    "width": 410,
+    "height": 410,
+    "grid": "source_images/batch-04-tiles-1-2-3-4-5-6-7-8-9.png",
+    "native_grid_size": [
+      1254,
+      1254
+    ],
+    "review_note": "All nine panels individually inspected at native size: joined hands have two clear wrists and owners, walking figures have separate hips and legs, shoulder-touch hands attach to Achilles own arm, Agamemnon pointing and grasping limbs trace correctly. Original bronze armor navy cape consistent; no new golden armor prematurely. No anatomy defects found."
   },
   {
     "id": "ch04-sc03",
@@ -670,9 +742,18 @@
     "source_text": "\"That is not fair!\" said Achilles.",
     "description": "Achilles confronts Agamemnon at the tent, furious face and open emphatic hand, feeling treated unfairly.",
     "alt": "Achilles confronts Agamemnon at the tent, furious face and open emphatic hand, feeling treated unfairly.",
-    "status": "planned",
+    "status": "integrated",
     "batch": 4,
-    "tile": 9
+    "tile": 9,
+    "asset": "assets/ch04-sc03.webp",
+    "width": 410,
+    "height": 410,
+    "grid": "source_images/batch-04-tiles-1-2-3-4-5-6-7-8-9.png",
+    "native_grid_size": [
+      1254,
+      1254
+    ],
+    "review_note": "All nine panels individually inspected at native size: joined hands have two clear wrists and owners, walking figures have separate hips and legs, shoulder-touch hands attach to Achilles own arm, Agamemnon pointing and grasping limbs trace correctly. Original bronze armor navy cape consistent; no new golden armor prematurely. No anatomy defects found."
   },
   {
     "id": "ch04-sc04",
