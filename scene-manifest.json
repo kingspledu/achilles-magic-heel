@@ -195,10 +195,19 @@
     "paragraph_index": 12,
     "source_text": "His body became safe from harm.",
     "description": "Thetis lifts the baby from the river, his wet body softly glowing with protective magic.",
-    "alt": "Thetis lifts the baby from the river, his wet body softly glowing with protective magic.",
-    "status": "planned",
+    "alt": "Thetis cradles Achilles after the magical dip; blue light surrounds his ivory swaddle, and both small feet are visible.",
+    "status": "integrated",
     "batch": 2,
-    "tile": 1
+    "tile": 1,
+    "asset": "assets/ch01-sc10.webp",
+    "width": 410,
+    "height": 410,
+    "grid": "source_images/batch-02-tiles-1-2-3-4-5-6-7-8-9.png",
+    "native_grid_size": [
+      1254,
+      1254
+    ],
+    "review_note": "All nine tiles viewed individually. Two baby feet separate and proportionate; maternal arms trace to separate shoulders and cradle swaddle. Child running and jumping each show two legs from pelvis and two arms from shoulders. Sword-hand belongs to forward arm; spectators overlap without extra limbs. Source events and age progression checked."
   },
   {
     "id": "ch01-sc11",
@@ -207,10 +216,19 @@
     "paragraph_index": 14,
     "source_text": "The heel she held did not touch the magic water.",
     "description": "Close-up: Thetis fingers securely clasp one baby heel above the water line, that tiny heel is dry and untouched by magic.",
-    "alt": "Close-up: Thetis fingers securely clasp one baby heel above the water line, that tiny heel is dry and untouched by magic.",
-    "status": "planned",
+    "alt": "Two tiny baby feet rest on Thetis supporting palm, with soft blue magical light around one foot.",
+    "status": "integrated",
     "batch": 2,
-    "tile": 2
+    "tile": 2,
+    "asset": "assets/ch01-sc11.webp",
+    "width": 410,
+    "height": 410,
+    "grid": "source_images/batch-02-tiles-1-2-3-4-5-6-7-8-9.png",
+    "native_grid_size": [
+      1254,
+      1254
+    ],
+    "review_note": "All nine tiles viewed individually. Two baby feet separate and proportionate; maternal arms trace to separate shoulders and cradle swaddle. Child running and jumping each show two legs from pelvis and two arms from shoulders. Sword-hand belongs to forward arm; spectators overlap without extra limbs. Source events and age progression checked."
   },
   {
     "id": "ch01-sc12",
@@ -219,10 +237,19 @@
     "paragraph_index": 16,
     "source_text": "Thetis did not know that this tiny spot would be very important one day.",
     "description": "Thetis cuddles baby Achilles beside the river, peaceful unaware expression, one tiny unprotected heel visible.",
-    "alt": "Thetis cuddles baby Achilles beside the river, peaceful unaware expression, one tiny unprotected heel visible.",
-    "status": "planned",
+    "alt": "Thetis cradles Achilles beside the River Styx, unaware of his vulnerable heel.",
+    "status": "integrated",
     "batch": 2,
-    "tile": 3
+    "tile": 3,
+    "asset": "assets/ch01-sc12.webp",
+    "width": 410,
+    "height": 410,
+    "grid": "source_images/batch-02-tiles-1-2-3-4-5-6-7-8-9.png",
+    "native_grid_size": [
+      1254,
+      1254
+    ],
+    "review_note": "All nine tiles viewed individually. Two baby feet separate and proportionate; maternal arms trace to separate shoulders and cradle swaddle. Child running and jumping each show two legs from pelvis and two arms from shoulders. Sword-hand belongs to forward arm; spectators overlap without extra limbs. Source events and age progression checked."
   },
   {
     "id": "ch02-sc01",
@@ -232,9 +259,18 @@
     "source_text": "Achilles grew bigger and stronger every day.",
     "description": "Ten-year-old Achilles, golden curls and ivory teal-edged tunic, stands growing strong in a sunny Greek training courtyard.",
     "alt": "Ten-year-old Achilles, golden curls and ivory teal-edged tunic, stands growing strong in a sunny Greek training courtyard.",
-    "status": "planned",
+    "status": "integrated",
     "batch": 2,
-    "tile": 4
+    "tile": 4,
+    "asset": "assets/ch02-sc01.webp",
+    "width": 410,
+    "height": 410,
+    "grid": "source_images/batch-02-tiles-1-2-3-4-5-6-7-8-9.png",
+    "native_grid_size": [
+      1254,
+      1254
+    ],
+    "review_note": "All nine tiles viewed individually. Two baby feet separate and proportionate; maternal arms trace to separate shoulders and cradle swaddle. Child running and jumping each show two legs from pelvis and two arms from shoulders. Sword-hand belongs to forward arm; spectators overlap without extra limbs. Source events and age progression checked."
   },
   {
     "id": "ch02-sc02",
@@ -244,9 +280,18 @@
     "source_text": "He could run very fast.",
     "description": "Child Achilles sprints very fast across a grassy Greek hillside, dynamic side view.",
     "alt": "Child Achilles sprints very fast across a grassy Greek hillside, dynamic side view.",
-    "status": "planned",
+    "status": "integrated",
     "batch": 2,
-    "tile": 5
+    "tile": 5,
+    "asset": "assets/ch02-sc02.webp",
+    "width": 410,
+    "height": 410,
+    "grid": "source_images/batch-02-tiles-1-2-3-4-5-6-7-8-9.png",
+    "native_grid_size": [
+      1254,
+      1254
+    ],
+    "review_note": "All nine tiles viewed individually. Two baby feet separate and proportionate; maternal arms trace to separate shoulders and cradle swaddle. Child running and jumping each show two legs from pelvis and two arms from shoulders. Sword-hand belongs to forward arm; spectators overlap without extra limbs. Source events and age progression checked."
   },
   {
     "id": "ch02-sc03",
@@ -256,9 +301,18 @@
     "source_text": "He could jump high.",
     "description": "Child Achilles leaps high over a low stone training marker, joyful airborne pose.",
     "alt": "Child Achilles leaps high over a low stone training marker, joyful airborne pose.",
-    "status": "planned",
+    "status": "integrated",
     "batch": 2,
-    "tile": 6
+    "tile": 6,
+    "asset": "assets/ch02-sc03.webp",
+    "width": 410,
+    "height": 410,
+    "grid": "source_images/batch-02-tiles-1-2-3-4-5-6-7-8-9.png",
+    "native_grid_size": [
+      1254,
+      1254
+    ],
+    "review_note": "All nine tiles viewed individually. Two baby feet separate and proportionate; maternal arms trace to separate shoulders and cradle swaddle. Child running and jumping each show two legs from pelvis and two arms from shoulders. Sword-hand belongs to forward arm; spectators overlap without extra limbs. Source events and age progression checked."
   },
   {
     "id": "ch02-sc04",
@@ -268,9 +322,18 @@
     "source_text": "He could fight better than anyone else.",
     "description": "Young adult Achilles practices sword technique with a simple training target, confident skilled stance.",
     "alt": "Young adult Achilles practices sword technique with a simple training target, confident skilled stance.",
-    "status": "planned",
+    "status": "integrated",
     "batch": 2,
-    "tile": 7
+    "tile": 7,
+    "asset": "assets/ch02-sc04.webp",
+    "width": 410,
+    "height": 410,
+    "grid": "source_images/batch-02-tiles-1-2-3-4-5-6-7-8-9.png",
+    "native_grid_size": [
+      1254,
+      1254
+    ],
+    "review_note": "All nine tiles viewed individually. Two baby feet separate and proportionate; maternal arms trace to separate shoulders and cradle swaddle. Child running and jumping each show two legs from pelvis and two arms from shoulders. Sword-hand belongs to forward arm; spectators overlap without extra limbs. Source events and age progression checked."
   },
   {
     "id": "ch02-sc05",
@@ -280,9 +343,18 @@
     "source_text": "\"Wow! He is so fast!\" people said.",
     "description": "Greek villagers watch in amazement as young Achilles runs past them at great speed.",
     "alt": "Greek villagers watch in amazement as young Achilles runs past them at great speed.",
-    "status": "planned",
+    "status": "integrated",
     "batch": 2,
-    "tile": 8
+    "tile": 8,
+    "asset": "assets/ch02-sc05.webp",
+    "width": 410,
+    "height": 410,
+    "grid": "source_images/batch-02-tiles-1-2-3-4-5-6-7-8-9.png",
+    "native_grid_size": [
+      1254,
+      1254
+    ],
+    "review_note": "All nine tiles viewed individually. Two baby feet separate and proportionate; maternal arms trace to separate shoulders and cradle swaddle. Child running and jumping each show two legs from pelvis and two arms from shoulders. Sword-hand belongs to forward arm; spectators overlap without extra limbs. Source events and age progression checked."
   },
   {
     "id": "ch02-sc06",
@@ -292,9 +364,18 @@
     "source_text": "Achilles loved to win.",
     "description": "Young adult Achilles celebrates winning a footrace, delighted determined face, no podium or medals.",
     "alt": "Young adult Achilles celebrates winning a footrace, delighted determined face, no podium or medals.",
-    "status": "planned",
+    "status": "integrated",
     "batch": 2,
-    "tile": 9
+    "tile": 9,
+    "asset": "assets/ch02-sc06.webp",
+    "width": 410,
+    "height": 410,
+    "grid": "source_images/batch-02-tiles-1-2-3-4-5-6-7-8-9.png",
+    "native_grid_size": [
+      1254,
+      1254
+    ],
+    "review_note": "All nine tiles viewed individually. Two baby feet separate and proportionate; maternal arms trace to separate shoulders and cradle swaddle. Child running and jumping each show two legs from pelvis and two arms from shoulders. Sword-hand belongs to forward arm; spectators overlap without extra limbs. Source events and age progression checked."
   },
   {
     "id": "ch02-sc07",
