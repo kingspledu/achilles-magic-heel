@@ -2023,9 +2023,18 @@
     "source_text": "People were very sad.",
     "description": "Greek soldiers and ordinary Greek people bow their heads in sorrow, mourning their hero, soft dusk light.",
     "alt": "Greek soldiers and ordinary Greek people bow their heads in sorrow, mourning their hero, soft dusk light.",
-    "status": "planned",
+    "status": "integrated",
     "batch": 11,
-    "tile": 7
+    "tile": 7,
+    "asset": "assets/ch09-sc10.webp",
+    "width": 410,
+    "height": 410,
+    "grid": "source_images/batch-11-tiles-7.png",
+    "native_grid_size": [
+      1254,
+      1254
+    ],
+    "review_note": "Revised tile7 individually viewed: three anonymous helmeted soldiers and two gray-haired elders mourn. No deceased Patroclus-like character remains. Arms and hands belong to own bodies; clasped hands attach to distinct wrists, no extra limbs."
   },
   {
     "id": "ch09-sc11",
@@ -2098,9 +2107,18 @@
     "source_text": "He could live a long and quiet life.",
     "description": "Imagined possible future, explicitly a vision: older golden-haired Achilles with gray temples living peacefully in a simple Greek coastal home, no battle armor.",
     "alt": "Imagined possible future, explicitly a vision: older golden-haired Achilles with gray temples living peacefully in a simple Greek coastal home, no battle armor.",
-    "status": "planned",
+    "status": "integrated",
     "batch": 12,
-    "tile": 2
+    "tile": 2,
+    "asset": "assets/ch10-sc02.webp",
+    "width": 410,
+    "height": 410,
+    "grid": "source_images/batch-12-tiles-2-6.png",
+    "native_grid_size": [
+      1254,
+      1254
+    ],
+    "review_note": "Revised tiles2/6 individually viewed: imagined older Achilles alone, separate hands rest on knees, no invented children. Modern teacher blue blouse and glasses reads to three modern children; book-gripping hands have separate wrists; child limbs correctly owned. Both source meaning and timeline now match."
   },
   {
     "id": "ch10-sc03",
@@ -2173,9 +2191,18 @@
     "source_text": "Even today, people tell stories about Achilles.",
     "description": "Present-day teacher reads a book about Greek myths to children in a peaceful classroom, no legible text on book or walls.",
     "alt": "Present-day teacher reads a book about Greek myths to children in a peaceful classroom, no legible text on book or walls.",
-    "status": "planned",
+    "status": "integrated",
     "batch": 12,
-    "tile": 6
+    "tile": 6,
+    "asset": "assets/ch10-sc06.webp",
+    "width": 410,
+    "height": 410,
+    "grid": "source_images/batch-12-tiles-2-6.png",
+    "native_grid_size": [
+      1254,
+      1254
+    ],
+    "review_note": "Revised tiles2/6 individually viewed: imagined older Achilles alone, separate hands rest on knees, no invented children. Modern teacher blue blouse and glasses reads to three modern children; book-gripping hands have separate wrists; child limbs correctly owned. Both source meaning and timeline now match."
   },
   {
     "id": "ch10-sc07",
