@@ -1141,9 +1141,18 @@
     "source_text": "When Achilles heard the news, he could not believe it.",
     "description": "Achilles in ivory teal-edged tunic inside his camp tent receives devastating news from a somber Greek messenger, stunned disbelief.",
     "alt": "Achilles in ivory teal-edged tunic inside his camp tent receives devastating news from a somber Greek messenger, stunned disbelief.",
-    "status": "planned",
+    "status": "integrated",
     "batch": 7,
-    "tile": 1
+    "tile": 1,
+    "asset": "assets/ch06-sc01.webp",
+    "width": 410,
+    "height": 410,
+    "grid": "source_images/batch-07-tiles-1-2-3-4-5-6-7-8-9.png",
+    "native_grid_size": [
+      1254,
+      1254
+    ],
+    "review_note": "All nine native tiles individually inspected: messenger and grieving Achilles hands have clear owners; two seated legs and arms trace correctly; clasped hands at forehead have separate wrists; plain ivory tunic remains before new armor. Grief expressions and source events match. No extra or fused limbs found."
   },
   {
     "id": "ch06-sc02",
@@ -1153,9 +1162,18 @@
     "source_text": "\"Patroclus? My best friend?\"",
     "description": "Close portrait of Achilles eyes wide, lips parted in disbelief at hearing about Patroclus.",
     "alt": "Close portrait of Achilles eyes wide, lips parted in disbelief at hearing about Patroclus.",
-    "status": "planned",
+    "status": "integrated",
     "batch": 7,
-    "tile": 2
+    "tile": 2,
+    "asset": "assets/ch06-sc02.webp",
+    "width": 410,
+    "height": 410,
+    "grid": "source_images/batch-07-tiles-1-2-3-4-5-6-7-8-9.png",
+    "native_grid_size": [
+      1254,
+      1254
+    ],
+    "review_note": "All nine native tiles individually inspected: messenger and grieving Achilles hands have clear owners; two seated legs and arms trace correctly; clasped hands at forehead have separate wrists; plain ivory tunic remains before new armor. Grief expressions and source events match. No extra or fused limbs found."
   },
   {
     "id": "ch06-sc03",
@@ -1165,9 +1183,18 @@
     "source_text": "He felt very sad.",
     "description": "Achilles lowers his head in overwhelming sadness, seated alone inside his tent.",
     "alt": "Achilles lowers his head in overwhelming sadness, seated alone inside his tent.",
-    "status": "planned",
+    "status": "integrated",
     "batch": 7,
-    "tile": 3
+    "tile": 3,
+    "asset": "assets/ch06-sc03.webp",
+    "width": 410,
+    "height": 410,
+    "grid": "source_images/batch-07-tiles-1-2-3-4-5-6-7-8-9.png",
+    "native_grid_size": [
+      1254,
+      1254
+    ],
+    "review_note": "All nine native tiles individually inspected: messenger and grieving Achilles hands have clear owners; two seated legs and arms trace correctly; clasped hands at forehead have separate wrists; plain ivory tunic remains before new armor. Grief expressions and source events match. No extra or fused limbs found."
   },
   {
     "id": "ch06-sc04",
@@ -1177,9 +1204,18 @@
     "source_text": "He cried and cried.",
     "description": "Achilles cries openly with tears on his cheeks, soft light, compassionate close-up.",
     "alt": "Achilles cries openly with tears on his cheeks, soft light, compassionate close-up.",
-    "status": "planned",
+    "status": "integrated",
     "batch": 7,
-    "tile": 4
+    "tile": 4,
+    "asset": "assets/ch06-sc04.webp",
+    "width": 410,
+    "height": 410,
+    "grid": "source_images/batch-07-tiles-1-2-3-4-5-6-7-8-9.png",
+    "native_grid_size": [
+      1254,
+      1254
+    ],
+    "review_note": "All nine native tiles individually inspected: messenger and grieving Achilles hands have clear owners; two seated legs and arms trace correctly; clasped hands at forehead have separate wrists; plain ivory tunic remains before new armor. Grief expressions and source events match. No extra or fused limbs found."
   },
   {
     "id": "ch06-sc05",
@@ -1189,9 +1225,18 @@
     "source_text": "\"My friend is gone,\" he said.",
     "description": "Achilles sits beside the empty place where Patroclus used to sit, grieving his lost friend.",
     "alt": "Achilles sits beside the empty place where Patroclus used to sit, grieving his lost friend.",
-    "status": "planned",
+    "status": "integrated",
     "batch": 7,
-    "tile": 5
+    "tile": 5,
+    "asset": "assets/ch06-sc05.webp",
+    "width": 410,
+    "height": 410,
+    "grid": "source_images/batch-07-tiles-1-2-3-4-5-6-7-8-9.png",
+    "native_grid_size": [
+      1254,
+      1254
+    ],
+    "review_note": "All nine native tiles individually inspected: messenger and grieving Achilles hands have clear owners; two seated legs and arms trace correctly; clasped hands at forehead have separate wrists; plain ivory tunic remains before new armor. Grief expressions and source events match. No extra or fused limbs found."
   },
   {
     "id": "ch06-sc06",
@@ -1201,9 +1246,18 @@
     "source_text": "He was angry with Hector.",
     "description": "Achilles looks toward distant Troy with anger and sorrow, Hector not physically present.",
     "alt": "Achilles looks toward distant Troy with anger and sorrow, Hector not physically present.",
-    "status": "planned",
+    "status": "integrated",
     "batch": 7,
-    "tile": 6
+    "tile": 6,
+    "asset": "assets/ch06-sc06.webp",
+    "width": 410,
+    "height": 410,
+    "grid": "source_images/batch-07-tiles-1-2-3-4-5-6-7-8-9.png",
+    "native_grid_size": [
+      1254,
+      1254
+    ],
+    "review_note": "All nine native tiles individually inspected: messenger and grieving Achilles hands have clear owners; two seated legs and arms trace correctly; clasped hands at forehead have separate wrists; plain ivory tunic remains before new armor. Grief expressions and source events match. No extra or fused limbs found."
   },
   {
     "id": "ch06-sc07",
@@ -1213,9 +1267,18 @@
     "source_text": "\"Why did I let him go?\" he asked.",
     "description": "Achilles grips his own hands and bows his head, blaming himself for allowing his friend to go.",
     "alt": "Achilles grips his own hands and bows his head, blaming himself for allowing his friend to go.",
-    "status": "planned",
+    "status": "integrated",
     "batch": 7,
-    "tile": 7
+    "tile": 7,
+    "asset": "assets/ch06-sc07.webp",
+    "width": 410,
+    "height": 410,
+    "grid": "source_images/batch-07-tiles-1-2-3-4-5-6-7-8-9.png",
+    "native_grid_size": [
+      1254,
+      1254
+    ],
+    "review_note": "All nine native tiles individually inspected: messenger and grieving Achilles hands have clear owners; two seated legs and arms trace correctly; clasped hands at forehead have separate wrists; plain ivory tunic remains before new armor. Grief expressions and source events match. No extra or fused limbs found."
   },
   {
     "id": "ch06-sc08",
@@ -1225,9 +1288,18 @@
     "source_text": "Achilles knew he could not bring his friend back.",
     "description": "Achilles sits still in grief at the tent entrance, realizing nothing can bring Patroclus back.",
     "alt": "Achilles sits still in grief at the tent entrance, realizing nothing can bring Patroclus back.",
-    "status": "planned",
+    "status": "integrated",
     "batch": 7,
-    "tile": 8
+    "tile": 8,
+    "asset": "assets/ch06-sc08.webp",
+    "width": 410,
+    "height": 410,
+    "grid": "source_images/batch-07-tiles-1-2-3-4-5-6-7-8-9.png",
+    "native_grid_size": [
+      1254,
+      1254
+    ],
+    "review_note": "All nine native tiles individually inspected: messenger and grieving Achilles hands have clear owners; two seated legs and arms trace correctly; clasped hands at forehead have separate wrists; plain ivory tunic remains before new armor. Grief expressions and source events match. No extra or fused limbs found."
   },
   {
     "id": "ch06-sc09",
@@ -1237,9 +1309,18 @@
     "source_text": "This time, he would go back to the battle.",
     "description": "Achilles rises with resolve at the tent entrance, ivory teal-edged tunic and NO armor yet, preparing to return to battle.",
     "alt": "Achilles rises with resolve at the tent entrance, ivory teal-edged tunic and NO armor yet, preparing to return to battle.",
-    "status": "planned",
+    "status": "integrated",
     "batch": 7,
-    "tile": 9
+    "tile": 9,
+    "asset": "assets/ch06-sc09.webp",
+    "width": 410,
+    "height": 410,
+    "grid": "source_images/batch-07-tiles-1-2-3-4-5-6-7-8-9.png",
+    "native_grid_size": [
+      1254,
+      1254
+    ],
+    "review_note": "All nine native tiles individually inspected: messenger and grieving Achilles hands have clear owners; two seated legs and arms trace correctly; clasped hands at forehead have separate wrists; plain ivory tunic remains before new armor. Grief expressions and source events match. No extra or fused limbs found."
   },
   {
     "id": "ch07-sc01",
