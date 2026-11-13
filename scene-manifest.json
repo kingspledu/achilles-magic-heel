@@ -145,9 +145,18 @@
     "source_text": "She held Achilles by one heel and dipped him into the water.",
     "description": "Thetis holds the baby securely by ONE heel and dips his body into the shallow luminous magical water, clear side view.",
     "alt": "Thetis holds the baby securely by ONE heel and dips his body into the shallow luminous magical water, clear side view.",
-    "status": "planned",
+    "status": "integrated",
     "batch": 1,
-    "tile": 8
+    "tile": 8,
+    "asset": "assets/ch01-sc08.webp",
+    "width": 410,
+    "height": 410,
+    "grid": "source_images/batch-01-tiles-8-9.png",
+    "native_grid_size": [
+      1254,
+      1254
+    ],
+    "review_note": "Tiles 8 and 9 reviewed individually after correction: exactly two baby arms attach at shoulders; held bare foot and calf connect below swaddled pelvis, other leg concealed in wrap; heel dry above water; infant inverted head-down. Extra shoulder limb removed."
   },
   {
     "id": "ch01-sc09",
@@ -157,9 +166,18 @@
     "source_text": "Splash!",
     "description": "Close view of water splashing gently around baby Achilles during the magical dip, his held heel above water.",
     "alt": "Close view of water splashing gently around baby Achilles during the magical dip, his held heel above water.",
-    "status": "planned",
+    "status": "integrated",
     "batch": 1,
-    "tile": 9
+    "tile": 9,
+    "asset": "assets/ch01-sc09.webp",
+    "width": 410,
+    "height": 410,
+    "grid": "source_images/batch-01-tiles-8-9.png",
+    "native_grid_size": [
+      1254,
+      1254
+    ],
+    "review_note": "Tiles 8 and 9 reviewed individually after correction: exactly two baby arms attach at shoulders; held bare foot and calf connect below swaddled pelvis, other leg concealed in wrap; heel dry above water; infant inverted head-down. Extra shoulder limb removed."
   },
   {
     "id": "ch01-sc10",
