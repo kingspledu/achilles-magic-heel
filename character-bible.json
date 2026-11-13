@@ -1,6 +1,13 @@
 {
-  "art_style": "Modern Korean Webtoon Slice-of-Life Style",
-  "models": [],
-  "state_timeline": [],
-  "reference_images": []
+  "source_facts": "Names, relationships, events, infant and growing Achilles, original borrowed armor and new armor follow supplied source. Specific colors, hair, faces and architecture are adaptation choices.",
+  "characters": {
+    "achilles": "Golden short wavy hair, amber eyes, warm olive skin, clean shaven athletic young adult. Infant tiny golden curls ivory wrap; child ivory teal-edged tunic; adult same face. Plain tunic ivory teal edging. Original bronze armor navy cape before Patroclus death; new golden bronze armor teal cape and engraved world shield only after chapter 7.",
+    "thetis": "Long wavy dark teal hair, sea-green eyes, turquoise dress, pearl hair clasp.",
+    "peleus": "Older king dark brown hair graying at temples, short beard, burgundy mantle gold circlet.",
+    "patroclus": "Short curly dark brown hair, brown eyes, warm olive skin, athletic kind young man. Blue tunic. Borrowed ORIGINAL bronze armor navy cape in chapter 5, never golden hair.",
+    "agamemnon": "Stocky middle-aged black-haired king, thick square beard, burgundy cape bronze circlet.",
+    "hector": "Tall athletic auburn swept-back hair short auburn beard, bronze armor rust-red cape.",
+    "paris": "Slim straight black chin-length hair, violet tunic, wooden bow.",
+    "hephaestus": "Stocky copper-red bearded artisan, leather apron, hammer."
+  }
 }
