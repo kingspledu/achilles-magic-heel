@@ -1057,9 +1057,18 @@
     "source_text": "He went to the battle.",
     "description": "Patroclus wearing borrowed bronze armor and navy cape leaves the Greek camp toward the battle.",
     "alt": "Patroclus wearing borrowed bronze armor and navy cape leaves the Greek camp toward the battle.",
-    "status": "planned",
+    "status": "integrated",
     "batch": 6,
-    "tile": 6
+    "tile": 6,
+    "asset": "assets/ch05-sc09.webp",
+    "width": 410,
+    "height": 410,
+    "grid": "source_images/batch-06-tiles-6-7.png",
+    "native_grid_size": [
+      1254,
+      1254
+    ],
+    "review_note": "Tiles6/7 individually viewed after horse removal. Patroclus walks on foot; two legs trace to separate hips and knees, two arms trace to shoulders; navy cape original bronze armor correct. Hector watches on-foot distant Patroclus. No horse remains and no extra limb found."
   },
   {
     "id": "ch05-sc10",
@@ -1069,9 +1078,18 @@
     "source_text": "Hector thought Patroclus was Achilles.",
     "description": "Hector, auburn hair short auburn beard rust-red cape bronze armor, sees Patroclus in borrowed armor from across the field and mistakes him for Achilles.",
     "alt": "Hector, auburn hair short auburn beard rust-red cape bronze armor, sees Patroclus in borrowed armor from across the field and mistakes him for Achilles.",
-    "status": "planned",
+    "status": "integrated",
     "batch": 6,
-    "tile": 7
+    "tile": 7,
+    "asset": "assets/ch05-sc10.webp",
+    "width": 410,
+    "height": 410,
+    "grid": "source_images/batch-06-tiles-6-7.png",
+    "native_grid_size": [
+      1254,
+      1254
+    ],
+    "review_note": "Tiles6/7 individually viewed after horse removal. Patroclus walks on foot; two legs trace to separate hips and knees, two arms trace to shoulders; navy cape original bronze armor correct. Hector watches on-foot distant Patroclus. No horse remains and no extra limb found."
   },
   {
     "id": "ch05-sc11",
