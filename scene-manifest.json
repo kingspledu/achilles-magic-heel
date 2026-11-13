@@ -1897,9 +1897,18 @@
     "source_text": "He pulled back the string.",
     "description": "Paris draws back the bowstring, simple anatomically clear archer pose, arrow aimed downward toward distant Achilles.",
     "alt": "Paris draws back the bowstring, simple anatomically clear archer pose, arrow aimed downward toward distant Achilles.",
-    "status": "planned",
+    "status": "integrated",
     "batch": 11,
-    "tile": 1
+    "tile": 1,
+    "asset": "assets/ch09-sc04.webp",
+    "width": 410,
+    "height": 410,
+    "grid": "source_images/batch-11-tiles-1-2-3-4-5-6-8-9.png",
+    "native_grid_size": [
+      1254,
+      1254
+    ],
+    "review_note": "Tiles1-6,8,9 individually inspected at native size. Bow arms and hands have distinct owners; heel anatomically connects to ankle and sandal, impact non-graphic; memory shows two separate baby feet; kneeling Achilles has two arms and knees from correct joints; fallen portrait and memorial have no extra limbs. Tile7 withheld for deceased-character continuity correction."
   },
   {
     "id": "ch09-sc05",
@@ -1909,9 +1918,18 @@
     "source_text": "The arrow flew through the air.",
     "description": "An arrow flies through the air toward the Trojan plain, dynamic close view, no letters or motion text.",
     "alt": "An arrow flies through the air toward the Trojan plain, dynamic close view, no letters or motion text.",
-    "status": "planned",
+    "status": "integrated",
     "batch": 11,
-    "tile": 2
+    "tile": 2,
+    "asset": "assets/ch09-sc05.webp",
+    "width": 410,
+    "height": 410,
+    "grid": "source_images/batch-11-tiles-1-2-3-4-5-6-8-9.png",
+    "native_grid_size": [
+      1254,
+      1254
+    ],
+    "review_note": "Tiles1-6,8,9 individually inspected at native size. Bow arms and hands have distinct owners; heel anatomically connects to ankle and sandal, impact non-graphic; memory shows two separate baby feet; kneeling Achilles has two arms and knees from correct joints; fallen portrait and memorial have no extra limbs. Tile7 withheld for deceased-character continuity correction."
   },
   {
     "id": "ch09-sc06",
@@ -1921,9 +1939,18 @@
     "source_text": "It hit Achilles in the heel.",
     "description": "Restrained close view of arrow touching Achilles exposed heel just above brown sandal, no blood or puncture detail, golden greave above.",
     "alt": "Restrained close view of arrow touching Achilles exposed heel just above brown sandal, no blood or puncture detail, golden greave above.",
-    "status": "planned",
+    "status": "integrated",
     "batch": 11,
-    "tile": 3
+    "tile": 3,
+    "asset": "assets/ch09-sc06.webp",
+    "width": 410,
+    "height": 410,
+    "grid": "source_images/batch-11-tiles-1-2-3-4-5-6-8-9.png",
+    "native_grid_size": [
+      1254,
+      1254
+    ],
+    "review_note": "Tiles1-6,8,9 individually inspected at native size. Bow arms and hands have distinct owners; heel anatomically connects to ankle and sandal, impact non-graphic; memory shows two separate baby feet; kneeling Achilles has two arms and knees from correct joints; fallen portrait and memorial have no extra limbs. Tile7 withheld for deceased-character continuity correction."
   },
   {
     "id": "ch09-sc07",
@@ -1933,9 +1960,18 @@
     "source_text": "The magic river had made his body safe, but not that small part.",
     "description": "Symbolic memory of Thetis holding baby Achilles by one dry heel above luminous Styx water, the held heel untouched; clearly a memory vignette.",
     "alt": "Symbolic memory of Thetis holding baby Achilles by one dry heel above luminous Styx water, the held heel untouched; clearly a memory vignette.",
-    "status": "planned",
+    "status": "integrated",
     "batch": 11,
-    "tile": 4
+    "tile": 4,
+    "asset": "assets/ch09-sc07.webp",
+    "width": 410,
+    "height": 410,
+    "grid": "source_images/batch-11-tiles-1-2-3-4-5-6-8-9.png",
+    "native_grid_size": [
+      1254,
+      1254
+    ],
+    "review_note": "Tiles1-6,8,9 individually inspected at native size. Bow arms and hands have distinct owners; heel anatomically connects to ankle and sandal, impact non-graphic; memory shows two separate baby feet; kneeling Achilles has two arms and knees from correct joints; fallen portrait and memorial have no extra limbs. Tile7 withheld for deceased-character continuity correction."
   },
   {
     "id": "ch09-sc08",
@@ -1945,9 +1981,18 @@
     "source_text": "Achilles fell.",
     "description": "Achilles in NEW gold-bronze armor teal cape falls gently to his knees on dusty ground, golden shield beside him, no blood.",
     "alt": "Achilles in NEW gold-bronze armor teal cape falls gently to his knees on dusty ground, golden shield beside him, no blood.",
-    "status": "planned",
+    "status": "integrated",
     "batch": 11,
-    "tile": 5
+    "tile": 5,
+    "asset": "assets/ch09-sc08.webp",
+    "width": 410,
+    "height": 410,
+    "grid": "source_images/batch-11-tiles-1-2-3-4-5-6-8-9.png",
+    "native_grid_size": [
+      1254,
+      1254
+    ],
+    "review_note": "Tiles1-6,8,9 individually inspected at native size. Bow arms and hands have distinct owners; heel anatomically connects to ankle and sandal, impact non-graphic; memory shows two separate baby feet; kneeling Achilles has two arms and knees from correct joints; fallen portrait and memorial have no extra limbs. Tile7 withheld for deceased-character continuity correction."
   },
   {
     "id": "ch09-sc09",
@@ -1957,9 +2002,18 @@
     "source_text": "The great hero was gone.",
     "description": "Achilles lies still peacefully in NEW armor with teal cape, golden world shield resting beside him, no wounds or gore.",
     "alt": "Achilles lies still peacefully in NEW armor with teal cape, golden world shield resting beside him, no wounds or gore.",
-    "status": "planned",
+    "status": "integrated",
     "batch": 11,
-    "tile": 6
+    "tile": 6,
+    "asset": "assets/ch09-sc09.webp",
+    "width": 410,
+    "height": 410,
+    "grid": "source_images/batch-11-tiles-1-2-3-4-5-6-8-9.png",
+    "native_grid_size": [
+      1254,
+      1254
+    ],
+    "review_note": "Tiles1-6,8,9 individually inspected at native size. Bow arms and hands have distinct owners; heel anatomically connects to ankle and sandal, impact non-graphic; memory shows two separate baby feet; kneeling Achilles has two arms and knees from correct joints; fallen portrait and memorial have no extra limbs. Tile7 withheld for deceased-character continuity correction."
   },
   {
     "id": "ch09-sc10",
@@ -1981,9 +2035,18 @@
     "source_text": "They remembered his brave heart.",
     "description": "Memorial memory portrait of golden-haired Achilles with gentle brave eyes in golden armor and teal cape, warm light, no literal ghost.",
     "alt": "Memorial memory portrait of golden-haired Achilles with gentle brave eyes in golden armor and teal cape, warm light, no literal ghost.",
-    "status": "planned",
+    "status": "integrated",
     "batch": 11,
-    "tile": 8
+    "tile": 8,
+    "asset": "assets/ch09-sc11.webp",
+    "width": 410,
+    "height": 410,
+    "grid": "source_images/batch-11-tiles-1-2-3-4-5-6-8-9.png",
+    "native_grid_size": [
+      1254,
+      1254
+    ],
+    "review_note": "Tiles1-6,8,9 individually inspected at native size. Bow arms and hands have distinct owners; heel anatomically connects to ankle and sandal, impact non-graphic; memory shows two separate baby feet; kneeling Achilles has two arms and knees from correct joints; fallen portrait and memorial have no extra limbs. Tile7 withheld for deceased-character continuity correction."
   },
   {
     "id": "ch09-sc12",
@@ -1993,9 +2056,18 @@
     "source_text": "It means a weak spot that someone has.",
     "description": "Symbolic close view of Achilles sandaled foot and one small vulnerable heel, soft golden armor above, quiet reflection, no arrow or injury.",
     "alt": "Symbolic close view of Achilles sandaled foot and one small vulnerable heel, soft golden armor above, quiet reflection, no arrow or injury.",
-    "status": "planned",
+    "status": "integrated",
     "batch": 11,
-    "tile": 9
+    "tile": 9,
+    "asset": "assets/ch09-sc12.webp",
+    "width": 410,
+    "height": 410,
+    "grid": "source_images/batch-11-tiles-1-2-3-4-5-6-8-9.png",
+    "native_grid_size": [
+      1254,
+      1254
+    ],
+    "review_note": "Tiles1-6,8,9 individually inspected at native size. Bow arms and hands have distinct owners; heel anatomically connects to ankle and sandal, impact non-graphic; memory shows two separate baby feet; kneeling Achilles has two arms and knees from correct joints; fallen portrait and memorial have no extra limbs. Tile7 withheld for deceased-character continuity correction."
   },
   {
     "id": "ch10-sc01",
@@ -2005,9 +2077,18 @@
     "source_text": "Achilles knew that he had two choices.",
     "description": "Reflective memory before the war: adult Achilles in plain ivory teal-edged tunic considers two paths, quiet coastline and distant war camp, symbolic composition.",
     "alt": "Reflective memory before the war: adult Achilles in plain ivory teal-edged tunic considers two paths, quiet coastline and distant war camp, symbolic composition.",
-    "status": "planned",
+    "status": "integrated",
     "batch": 12,
-    "tile": 1
+    "tile": 1,
+    "asset": "assets/ch10-sc01.webp",
+    "width": 410,
+    "height": 410,
+    "grid": "source_images/batch-12-tiles-1-3-4-5-7-8-9.png",
+    "native_grid_size": [
+      1254,
+      1254
+    ],
+    "review_note": "Tiles1,3,4,5,7,8,9 individually viewed. Thinking hand traces to separate arm, running has two separate hip-knee-foot chains and two shoulder-arm chains, seated friends have separate limbs, armor states correct for memories. Tile1 symbolic split vision intentional. Tiles2/6 withheld to remove invented family and correct present-day setting."
   },
   {
     "id": "ch10-sc02",
@@ -2029,9 +2110,18 @@
     "source_text": "But he might die young.",
     "description": "Alternative imagined future: young adult Achilles in NEW golden armor teal cape stands in fading sunset light, sense of a short heroic life, no injury.",
     "alt": "Alternative imagined future: young adult Achilles in NEW golden armor teal cape stands in fading sunset light, sense of a short heroic life, no injury.",
-    "status": "planned",
+    "status": "integrated",
     "batch": 12,
-    "tile": 3
+    "tile": 3,
+    "asset": "assets/ch10-sc03.webp",
+    "width": 410,
+    "height": 410,
+    "grid": "source_images/batch-12-tiles-1-3-4-5-7-8-9.png",
+    "native_grid_size": [
+      1254,
+      1254
+    ],
+    "review_note": "Tiles1,3,4,5,7,8,9 individually viewed. Thinking hand traces to separate arm, running has two separate hip-knee-foot chains and two shoulder-arm chains, seated friends have separate limbs, armor states correct for memories. Tile1 symbolic split vision intentional. Tiles2/6 withheld to remove invented family and correct present-day setting."
   },
   {
     "id": "ch10-sc04",
@@ -2041,9 +2131,18 @@
     "source_text": "Achilles chose to fight.",
     "description": "Memory before the war: adult Achilles in ORIGINAL bronze armor navy cape chooses to head toward Greek war camp, determined side view.",
     "alt": "Memory before the war: adult Achilles in ORIGINAL bronze armor navy cape chooses to head toward Greek war camp, determined side view.",
-    "status": "planned",
+    "status": "integrated",
     "batch": 12,
-    "tile": 4
+    "tile": 4,
+    "asset": "assets/ch10-sc04.webp",
+    "width": 410,
+    "height": 410,
+    "grid": "source_images/batch-12-tiles-1-3-4-5-7-8-9.png",
+    "native_grid_size": [
+      1254,
+      1254
+    ],
+    "review_note": "Tiles1,3,4,5,7,8,9 individually viewed. Thinking hand traces to separate arm, running has two separate hip-knee-foot chains and two shoulder-arm chains, seated friends have separate limbs, armor states correct for memories. Tile1 symbolic split vision intentional. Tiles2/6 withheld to remove invented family and correct present-day setting."
   },
   {
     "id": "ch10-sc05",
@@ -2053,9 +2152,18 @@
     "source_text": "He wanted people to remember his name.",
     "description": "Close face of young Achilles hoping his name will be remembered, original bronze armor navy cape, thoughtful earnest look.",
     "alt": "Close face of young Achilles hoping his name will be remembered, original bronze armor navy cape, thoughtful earnest look.",
-    "status": "planned",
+    "status": "integrated",
     "batch": 12,
-    "tile": 5
+    "tile": 5,
+    "asset": "assets/ch10-sc05.webp",
+    "width": 410,
+    "height": 410,
+    "grid": "source_images/batch-12-tiles-1-3-4-5-7-8-9.png",
+    "native_grid_size": [
+      1254,
+      1254
+    ],
+    "review_note": "Tiles1,3,4,5,7,8,9 individually viewed. Thinking hand traces to separate arm, running has two separate hip-knee-foot chains and two shoulder-arm chains, seated friends have separate limbs, armor states correct for memories. Tile1 symbolic split vision intentional. Tiles2/6 withheld to remove invented family and correct present-day setting."
   },
   {
     "id": "ch10-sc06",
@@ -2077,9 +2185,18 @@
     "source_text": "They talk about his speed.",
     "description": "Remembered scene of golden-haired Achilles sprinting at speed through a sunny Greek landscape, ivory teal-edged tunic.",
     "alt": "Remembered scene of golden-haired Achilles sprinting at speed through a sunny Greek landscape, ivory teal-edged tunic.",
-    "status": "planned",
+    "status": "integrated",
     "batch": 12,
-    "tile": 7
+    "tile": 7,
+    "asset": "assets/ch10-sc07.webp",
+    "width": 410,
+    "height": 410,
+    "grid": "source_images/batch-12-tiles-1-3-4-5-7-8-9.png",
+    "native_grid_size": [
+      1254,
+      1254
+    ],
+    "review_note": "Tiles1,3,4,5,7,8,9 individually viewed. Thinking hand traces to separate arm, running has two separate hip-knee-foot chains and two shoulder-arm chains, seated friends have separate limbs, armor states correct for memories. Tile1 symbolic split vision intentional. Tiles2/6 withheld to remove invented family and correct present-day setting."
   },
   {
     "id": "ch10-sc08",
@@ -2089,9 +2206,18 @@
     "source_text": "They talk about his best friend.",
     "description": "Warm remembered image of Achilles in ivory teal-edged tunic laughing with brown-curly-haired Patroclus in blue tunic, friendship emphasized.",
     "alt": "Warm remembered image of Achilles in ivory teal-edged tunic laughing with brown-curly-haired Patroclus in blue tunic, friendship emphasized.",
-    "status": "planned",
+    "status": "integrated",
     "batch": 12,
-    "tile": 8
+    "tile": 8,
+    "asset": "assets/ch10-sc08.webp",
+    "width": 410,
+    "height": 410,
+    "grid": "source_images/batch-12-tiles-1-3-4-5-7-8-9.png",
+    "native_grid_size": [
+      1254,
+      1254
+    ],
+    "review_note": "Tiles1,3,4,5,7,8,9 individually viewed. Thinking hand traces to separate arm, running has two separate hip-knee-foot chains and two shoulder-arm chains, seated friends have separate limbs, armor states correct for memories. Tile1 symbolic split vision intentional. Tiles2/6 withheld to remove invented family and correct present-day setting."
   },
   {
     "id": "ch10-sc09",
@@ -2101,8 +2227,17 @@
     "source_text": "And that is what makes his story special.",
     "description": "Final reflective portrait: golden-haired Achilles in NEW golden armor teal cape holds the world shield, brave yet gentle imperfect human expression, golden Greek coast behind.",
     "alt": "Final reflective portrait: golden-haired Achilles in NEW golden armor teal cape holds the world shield, brave yet gentle imperfect human expression, golden Greek coast behind.",
-    "status": "planned",
+    "status": "integrated",
     "batch": 12,
-    "tile": 9
+    "tile": 9,
+    "asset": "assets/ch10-sc09.webp",
+    "width": 410,
+    "height": 410,
+    "grid": "source_images/batch-12-tiles-1-3-4-5-7-8-9.png",
+    "native_grid_size": [
+      1254,
+      1254
+    ],
+    "review_note": "Tiles1,3,4,5,7,8,9 individually viewed. Thinking hand traces to separate arm, running has two separate hip-knee-foot chains and two shoulder-arm chains, seated friends have separate limbs, armor states correct for memories. Tile1 symbolic split vision intentional. Tiles2/6 withheld to remove invented family and correct present-day setting."
   }
 ]
