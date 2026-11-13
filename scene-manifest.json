@@ -1330,9 +1330,18 @@
     "source_text": "His old armor was gone.",
     "description": "Achilles stands beside the empty armor stand inside his tent, his original armor is gone, plain ivory teal-edged tunic.",
     "alt": "Achilles stands beside the empty armor stand inside his tent, his original armor is gone, plain ivory teal-edged tunic.",
-    "status": "planned",
+    "status": "integrated",
     "batch": 8,
-    "tile": 1
+    "tile": 1,
+    "asset": "assets/ch07-sc01.webp",
+    "width": 410,
+    "height": 410,
+    "grid": "source_images/batch-08-tiles-1-2-3-4-5-6-7-8-9.png",
+    "native_grid_size": [
+      1254,
+      1254
+    ],
+    "review_note": "All nine tiles individually viewed. Hephaestus has two shoulder-arm chains; hammer and tongs each held by own hand; engraved helmet and breastplate have no false human limbs. Mother gestures with two clear hands, empty armor stand matches loss. Shield figures are miniature metal relief; no extra-body anatomy found."
   },
   {
     "id": "ch07-sc02",
@@ -1342,9 +1351,18 @@
     "source_text": "His mother, Thetis, went to ask Hephaestus for help.",
     "description": "Thetis enters Hephaestus warm glowing forge and asks the copper-bearded artisan for help.",
     "alt": "Thetis enters Hephaestus warm glowing forge and asks the copper-bearded artisan for help.",
-    "status": "planned",
+    "status": "integrated",
     "batch": 8,
-    "tile": 2
+    "tile": 2,
+    "asset": "assets/ch07-sc02.webp",
+    "width": 410,
+    "height": 410,
+    "grid": "source_images/batch-08-tiles-1-2-3-4-5-6-7-8-9.png",
+    "native_grid_size": [
+      1254,
+      1254
+    ],
+    "review_note": "All nine tiles individually viewed. Hephaestus has two shoulder-arm chains; hammer and tongs each held by own hand; engraved helmet and breastplate have no false human limbs. Mother gestures with two clear hands, empty armor stand matches loss. Shield figures are miniature metal relief; no extra-body anatomy found."
   },
   {
     "id": "ch07-sc03",
@@ -1354,9 +1372,18 @@
     "source_text": "He worked in a hot, bright forge.",
     "description": "Hephaestus alone works beside the hot forge, leather apron, hammer, glowing bronze, warm sparks.",
     "alt": "Hephaestus alone works beside the hot forge, leather apron, hammer, glowing bronze, warm sparks.",
-    "status": "planned",
+    "status": "integrated",
     "batch": 8,
-    "tile": 3
+    "tile": 3,
+    "asset": "assets/ch07-sc03.webp",
+    "width": 410,
+    "height": 410,
+    "grid": "source_images/batch-08-tiles-1-2-3-4-5-6-7-8-9.png",
+    "native_grid_size": [
+      1254,
+      1254
+    ],
+    "review_note": "All nine tiles individually viewed. Hephaestus has two shoulder-arm chains; hammer and tongs each held by own hand; engraved helmet and breastplate have no false human limbs. Mother gestures with two clear hands, empty armor stand matches loss. Shield figures are miniature metal relief; no extra-body anatomy found."
   },
   {
     "id": "ch07-sc04",
@@ -1366,9 +1393,18 @@
     "source_text": "Clang! Clang! Clang!",
     "description": "Close-up of Hephaestus hammer striking bright metal on an anvil, small sparks, anatomically clear hands.",
     "alt": "Close-up of Hephaestus hammer striking bright metal on an anvil, small sparks, anatomically clear hands.",
-    "status": "planned",
+    "status": "integrated",
     "batch": 8,
-    "tile": 4
+    "tile": 4,
+    "asset": "assets/ch07-sc04.webp",
+    "width": 410,
+    "height": 410,
+    "grid": "source_images/batch-08-tiles-1-2-3-4-5-6-7-8-9.png",
+    "native_grid_size": [
+      1254,
+      1254
+    ],
+    "review_note": "All nine tiles individually viewed. Hephaestus has two shoulder-arm chains; hammer and tongs each held by own hand; engraved helmet and breastplate have no false human limbs. Mother gestures with two clear hands, empty armor stand matches loss. Shield figures are miniature metal relief; no extra-body anatomy found."
   },
   {
     "id": "ch07-sc05",
@@ -1378,9 +1414,18 @@
     "source_text": "He made a new helmet.",
     "description": "Hephaestus crafts a new gold-bronze Greek helmet on his workbench.",
     "alt": "Hephaestus crafts a new gold-bronze Greek helmet on his workbench.",
-    "status": "planned",
+    "status": "integrated",
     "batch": 8,
-    "tile": 5
+    "tile": 5,
+    "asset": "assets/ch07-sc05.webp",
+    "width": 410,
+    "height": 410,
+    "grid": "source_images/batch-08-tiles-1-2-3-4-5-6-7-8-9.png",
+    "native_grid_size": [
+      1254,
+      1254
+    ],
+    "review_note": "All nine tiles individually viewed. Hephaestus has two shoulder-arm chains; hammer and tongs each held by own hand; engraved helmet and breastplate have no false human limbs. Mother gestures with two clear hands, empty armor stand matches loss. Shield figures are miniature metal relief; no extra-body anatomy found."
   },
   {
     "id": "ch07-sc06",
@@ -1390,9 +1435,18 @@
     "source_text": "He made strong armor.",
     "description": "Hephaestus shapes a strong golden bronze breastplate in the forge.",
     "alt": "Hephaestus shapes a strong golden bronze breastplate in the forge.",
-    "status": "planned",
+    "status": "integrated",
     "batch": 8,
-    "tile": 6
+    "tile": 6,
+    "asset": "assets/ch07-sc06.webp",
+    "width": 410,
+    "height": 410,
+    "grid": "source_images/batch-08-tiles-1-2-3-4-5-6-7-8-9.png",
+    "native_grid_size": [
+      1254,
+      1254
+    ],
+    "review_note": "All nine tiles individually viewed. Hephaestus has two shoulder-arm chains; hammer and tongs each held by own hand; engraved helmet and breastplate have no false human limbs. Mother gestures with two clear hands, empty armor stand matches loss. Shield figures are miniature metal relief; no extra-body anatomy found."
   },
   {
     "id": "ch07-sc07",
@@ -1402,9 +1456,18 @@
     "source_text": "And he made a beautiful shield.",
     "description": "Hephaestus holds up a newly made beautiful round golden shield, no weapons embedded in it.",
     "alt": "Hephaestus holds up a newly made beautiful round golden shield, no weapons embedded in it.",
-    "status": "planned",
+    "status": "integrated",
     "batch": 8,
-    "tile": 7
+    "tile": 7,
+    "asset": "assets/ch07-sc07.webp",
+    "width": 410,
+    "height": 410,
+    "grid": "source_images/batch-08-tiles-1-2-3-4-5-6-7-8-9.png",
+    "native_grid_size": [
+      1254,
+      1254
+    ],
+    "review_note": "All nine tiles individually viewed. Hephaestus has two shoulder-arm chains; hammer and tongs each held by own hand; engraved helmet and breastplate have no false human limbs. Mother gestures with two clear hands, empty armor stand matches loss. Shield figures are miniature metal relief; no extra-body anatomy found."
   },
   {
     "id": "ch07-sc08",
@@ -1414,9 +1477,18 @@
     "source_text": "It showed the sun and the stars.",
     "description": "Close view of the circular golden shield engraved with a radiant sun and stars, crafted metal relief not a live sky.",
     "alt": "Close view of the circular golden shield engraved with a radiant sun and stars, crafted metal relief not a live sky.",
-    "status": "planned",
+    "status": "integrated",
     "batch": 8,
-    "tile": 8
+    "tile": 8,
+    "asset": "assets/ch07-sc08.webp",
+    "width": 410,
+    "height": 410,
+    "grid": "source_images/batch-08-tiles-1-2-3-4-5-6-7-8-9.png",
+    "native_grid_size": [
+      1254,
+      1254
+    ],
+    "review_note": "All nine tiles individually viewed. Hephaestus has two shoulder-arm chains; hammer and tongs each held by own hand; engraved helmet and breastplate have no false human limbs. Mother gestures with two clear hands, empty armor stand matches loss. Shield figures are miniature metal relief; no extra-body anatomy found."
   },
   {
     "id": "ch07-sc09",
@@ -1426,9 +1498,18 @@
     "source_text": "It showed people dancing and working.",
     "description": "Close detail of the SAME golden shield showing tiny engraved people dancing and working, metal relief figures.",
     "alt": "Close detail of the SAME golden shield showing tiny engraved people dancing and working, metal relief figures.",
-    "status": "planned",
+    "status": "integrated",
     "batch": 8,
-    "tile": 9
+    "tile": 9,
+    "asset": "assets/ch07-sc09.webp",
+    "width": 410,
+    "height": 410,
+    "grid": "source_images/batch-08-tiles-1-2-3-4-5-6-7-8-9.png",
+    "native_grid_size": [
+      1254,
+      1254
+    ],
+    "review_note": "All nine tiles individually viewed. Hephaestus has two shoulder-arm chains; hammer and tongs each held by own hand; engraved helmet and breastplate have no false human limbs. Mother gestures with two clear hands, empty armor stand matches loss. Shield figures are miniature metal relief; no extra-body anatomy found."
   },
   {
     "id": "ch07-sc10",
