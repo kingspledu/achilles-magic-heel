@@ -133,9 +133,18 @@
     "source_text": "\"This water will keep you safe,\" she said.",
     "description": "At the river edge Thetis kneels with the baby, looks at the magical water with hope.",
     "alt": "At the river edge Thetis kneels with the baby, looks at the magical water with hope.",
-    "status": "planned",
+    "status": "integrated",
     "batch": 1,
-    "tile": 7
+    "tile": 7,
+    "asset": "assets/ch01-sc07.webp",
+    "width": 410,
+    "height": 410,
+    "grid": "source_images/batch-01-tiles-7.png",
+    "native_grid_size": [
+      1254,
+      1254
+    ],
+    "review_note": "Tile 7 inspected individually after targeted revision. Mother has two separate arms cradling wrapped infant; both small infant hands at own chest; no limb merging or adult arm from baby shoulder. Source event beside Styx matches."
   },
   {
     "id": "ch01-sc08",
