@@ -763,9 +763,18 @@
     "source_text": "\"I will not fight anymore!\"",
     "description": "Achilles in original bronze armor refuses to fight, turns away from Agamemnon firmly.",
     "alt": "Achilles in original bronze armor refuses to fight, turns away from Agamemnon firmly.",
-    "status": "planned",
+    "status": "integrated",
     "batch": 5,
-    "tile": 1
+    "tile": 1,
+    "asset": "assets/ch04-sc04.webp",
+    "width": 410,
+    "height": 410,
+    "grid": "source_images/batch-05-tiles-1-2-3-4-5-6-7-8-9.png",
+    "native_grid_size": [
+      1254,
+      1254
+    ],
+    "review_note": "All nine native tiles individually viewed. Folded arms have two shoulder origins, clenched fists attach to separate wrists, seated knees and calves originate at hips, worried soldiers hands and helmets checked. Patroclus blue tunic and Achilles ivory tunic consistent with armor left on stand. No extra limb or merged body found."
   },
   {
     "id": "ch04-sc05",
@@ -775,9 +784,18 @@
     "source_text": "He walked away from the battle.",
     "description": "Achilles walks away from the battle toward his own tent, back view navy cape trailing.",
     "alt": "Achilles walks away from the battle toward his own tent, back view navy cape trailing.",
-    "status": "planned",
+    "status": "integrated",
     "batch": 5,
-    "tile": 2
+    "tile": 2,
+    "asset": "assets/ch04-sc05.webp",
+    "width": 410,
+    "height": 410,
+    "grid": "source_images/batch-05-tiles-1-2-3-4-5-6-7-8-9.png",
+    "native_grid_size": [
+      1254,
+      1254
+    ],
+    "review_note": "All nine native tiles individually viewed. Folded arms have two shoulder origins, clenched fists attach to separate wrists, seated knees and calves originate at hips, worried soldiers hands and helmets checked. Patroclus blue tunic and Achilles ivory tunic consistent with armor left on stand. No extra limb or merged body found."
   },
   {
     "id": "ch04-sc06",
@@ -787,9 +805,18 @@
     "source_text": "The other soldiers were worried.",
     "description": "Greek soldiers at camp exchange worried looks after Achilles leaves.",
     "alt": "Greek soldiers at camp exchange worried looks after Achilles leaves.",
-    "status": "planned",
+    "status": "integrated",
     "batch": 5,
-    "tile": 3
+    "tile": 3,
+    "asset": "assets/ch04-sc06.webp",
+    "width": 410,
+    "height": 410,
+    "grid": "source_images/batch-05-tiles-1-2-3-4-5-6-7-8-9.png",
+    "native_grid_size": [
+      1254,
+      1254
+    ],
+    "review_note": "All nine native tiles individually viewed. Folded arms have two shoulder origins, clenched fists attach to separate wrists, seated knees and calves originate at hips, worried soldiers hands and helmets checked. Patroclus blue tunic and Achilles ivory tunic consistent with armor left on stand. No extra limb or merged body found."
   },
   {
     "id": "ch04-sc07",
@@ -799,9 +826,18 @@
     "source_text": "But Achilles would not listen.",
     "description": "Worried soldiers appeal to Achilles outside his tent, but he looks away refusing to listen.",
     "alt": "Worried soldiers appeal to Achilles outside his tent, but he looks away refusing to listen.",
-    "status": "planned",
+    "status": "integrated",
     "batch": 5,
-    "tile": 4
+    "tile": 4,
+    "asset": "assets/ch04-sc07.webp",
+    "width": 410,
+    "height": 410,
+    "grid": "source_images/batch-05-tiles-1-2-3-4-5-6-7-8-9.png",
+    "native_grid_size": [
+      1254,
+      1254
+    ],
+    "review_note": "All nine native tiles individually viewed. Folded arms have two shoulder origins, clenched fists attach to separate wrists, seated knees and calves originate at hips, worried soldiers hands and helmets checked. Patroclus blue tunic and Achilles ivory tunic consistent with armor left on stand. No extra limb or merged body found."
   },
   {
     "id": "ch04-sc08",
@@ -811,9 +847,18 @@
     "source_text": "He sat in his tent and stayed away from the fight.",
     "description": "Achilles sits alone inside his ivory tent in plain ivory teal-edged tunic, arms folded, angry withdrawn face.",
     "alt": "Achilles sits alone inside his ivory tent in plain ivory teal-edged tunic, arms folded, angry withdrawn face.",
-    "status": "planned",
+    "status": "integrated",
     "batch": 5,
-    "tile": 5
+    "tile": 5,
+    "asset": "assets/ch04-sc08.webp",
+    "width": 410,
+    "height": 410,
+    "grid": "source_images/batch-05-tiles-1-2-3-4-5-6-7-8-9.png",
+    "native_grid_size": [
+      1254,
+      1254
+    ],
+    "review_note": "All nine native tiles individually viewed. Folded arms have two shoulder origins, clenched fists attach to separate wrists, seated knees and calves originate at hips, worried soldiers hands and helmets checked. Patroclus blue tunic and Achilles ivory tunic consistent with armor left on stand. No extra limb or merged body found."
   },
   {
     "id": "ch04-sc09",
@@ -823,9 +868,18 @@
     "source_text": "Sometimes, even the strongest person can make a bad choice when angry.",
     "description": "Close-up of Achilles alone inside the tent, jaw tense and hands clenched, anger isolating him.",
     "alt": "Close-up of Achilles alone inside the tent, jaw tense and hands clenched, anger isolating him.",
-    "status": "planned",
+    "status": "integrated",
     "batch": 5,
-    "tile": 6
+    "tile": 6,
+    "asset": "assets/ch04-sc09.webp",
+    "width": 410,
+    "height": 410,
+    "grid": "source_images/batch-05-tiles-1-2-3-4-5-6-7-8-9.png",
+    "native_grid_size": [
+      1254,
+      1254
+    ],
+    "review_note": "All nine native tiles individually viewed. Folded arms have two shoulder origins, clenched fists attach to separate wrists, seated knees and calves originate at hips, worried soldiers hands and helmets checked. Patroclus blue tunic and Achilles ivory tunic consistent with armor left on stand. No extra limb or merged body found."
   },
   {
     "id": "ch05-sc01",
@@ -835,9 +889,18 @@
     "source_text": "The Greeks were having a hard time.",
     "description": "Exhausted Greek soldiers retreat toward their tents, worried and struggling.",
     "alt": "Exhausted Greek soldiers retreat toward their tents, worried and struggling.",
-    "status": "planned",
+    "status": "integrated",
     "batch": 5,
-    "tile": 7
+    "tile": 7,
+    "asset": "assets/ch05-sc01.webp",
+    "width": 410,
+    "height": 410,
+    "grid": "source_images/batch-05-tiles-1-2-3-4-5-6-7-8-9.png",
+    "native_grid_size": [
+      1254,
+      1254
+    ],
+    "review_note": "All nine native tiles individually viewed. Folded arms have two shoulder origins, clenched fists attach to separate wrists, seated knees and calves originate at hips, worried soldiers hands and helmets checked. Patroclus blue tunic and Achilles ivory tunic consistent with armor left on stand. No extra limb or merged body found."
   },
   {
     "id": "ch05-sc02",
@@ -847,9 +910,18 @@
     "source_text": "Patroclus went to see Achilles.",
     "description": "Patroclus in blue tunic approaches Achilles ivory tent with urgent concern.",
     "alt": "Patroclus in blue tunic approaches Achilles ivory tent with urgent concern.",
-    "status": "planned",
+    "status": "integrated",
     "batch": 5,
-    "tile": 8
+    "tile": 8,
+    "asset": "assets/ch05-sc02.webp",
+    "width": 410,
+    "height": 410,
+    "grid": "source_images/batch-05-tiles-1-2-3-4-5-6-7-8-9.png",
+    "native_grid_size": [
+      1254,
+      1254
+    ],
+    "review_note": "All nine native tiles individually viewed. Folded arms have two shoulder origins, clenched fists attach to separate wrists, seated knees and calves originate at hips, worried soldiers hands and helmets checked. Patroclus blue tunic and Achilles ivory tunic consistent with armor left on stand. No extra limb or merged body found."
   },
   {
     "id": "ch05-sc03",
@@ -859,9 +931,18 @@
     "source_text": "\"Please,\" he said. \"Our friends need help.\"",
     "description": "Inside the tent Patroclus appeals with open hands to seated Achilles, asking help for their friends.",
     "alt": "Inside the tent Patroclus appeals with open hands to seated Achilles, asking help for their friends.",
-    "status": "planned",
+    "status": "integrated",
     "batch": 5,
-    "tile": 9
+    "tile": 9,
+    "asset": "assets/ch05-sc03.webp",
+    "width": 410,
+    "height": 410,
+    "grid": "source_images/batch-05-tiles-1-2-3-4-5-6-7-8-9.png",
+    "native_grid_size": [
+      1254,
+      1254
+    ],
+    "review_note": "All nine native tiles individually viewed. Folded arms have two shoulder origins, clenched fists attach to separate wrists, seated knees and calves originate at hips, worried soldiers hands and helmets checked. Patroclus blue tunic and Achilles ivory tunic consistent with armor left on stand. No extra limb or merged body found."
   },
   {
     "id": "ch05-sc04",
