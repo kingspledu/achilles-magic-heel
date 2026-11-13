@@ -304,9 +304,18 @@
     "source_text": "He trained every day. He wanted to be the best.",
     "description": "Young adult Achilles diligently trains at dawn with a wooden practice sword in the courtyard.",
     "alt": "Young adult Achilles diligently trains at dawn with a wooden practice sword in the courtyard.",
-    "status": "planned",
+    "status": "integrated",
     "batch": 3,
-    "tile": 1
+    "tile": 1,
+    "asset": "assets/ch02-sc07.webp",
+    "width": 410,
+    "height": 410,
+    "grid": "source_images/batch-03-tiles-1-2-3-4-5-6-7-8-9.png",
+    "native_grid_size": [
+      1254,
+      1254
+    ],
+    "review_note": "All nine panels viewed individually at native size. Adults distinct blond Achilles and curly brown-haired Patroclus. Sword grips traced to separate shoulders and forearms; legs attach to hips; ball-play hands have clear owners; seated knees and overlapping friendly hands inspected. No extra limbs, malformed joints, or source contradictions found."
   },
   {
     "id": "ch02-sc08",
@@ -316,9 +325,18 @@
     "source_text": "He became the greatest fighter in the Greek army.",
     "description": "Adult Achilles in ORIGINAL bronze armor and navy cape stands as the foremost fighter among Greek soldiers at the seaside camp.",
     "alt": "Adult Achilles in ORIGINAL bronze armor and navy cape stands as the foremost fighter among Greek soldiers at the seaside camp.",
-    "status": "planned",
+    "status": "integrated",
     "batch": 3,
-    "tile": 2
+    "tile": 2,
+    "asset": "assets/ch02-sc08.webp",
+    "width": 410,
+    "height": 410,
+    "grid": "source_images/batch-03-tiles-1-2-3-4-5-6-7-8-9.png",
+    "native_grid_size": [
+      1254,
+      1254
+    ],
+    "review_note": "All nine panels viewed individually at native size. Adults distinct blond Achilles and curly brown-haired Patroclus. Sword grips traced to separate shoulders and forearms; legs attach to hips; ball-play hands have clear owners; seated knees and overlapping friendly hands inspected. No extra limbs, malformed joints, or source contradictions found."
   },
   {
     "id": "ch02-sc09",
@@ -328,9 +346,18 @@
     "source_text": "And he had a very good friend.",
     "description": "Achilles in ivory teal-edged tunic warmly approaches his close friend Patroclus in a blue tunic, quiet friendly moment.",
     "alt": "Achilles in ivory teal-edged tunic warmly approaches his close friend Patroclus in a blue tunic, quiet friendly moment.",
-    "status": "planned",
+    "status": "integrated",
     "batch": 3,
-    "tile": 3
+    "tile": 3,
+    "asset": "assets/ch02-sc09.webp",
+    "width": 410,
+    "height": 410,
+    "grid": "source_images/batch-03-tiles-1-2-3-4-5-6-7-8-9.png",
+    "native_grid_size": [
+      1254,
+      1254
+    ],
+    "review_note": "All nine panels viewed individually at native size. Adults distinct blond Achilles and curly brown-haired Patroclus. Sword grips traced to separate shoulders and forearms; legs attach to hips; ball-play hands have clear owners; seated knees and overlapping friendly hands inspected. No extra limbs, malformed joints, or source contradictions found."
   },
   {
     "id": "ch03-sc01",
@@ -340,9 +367,18 @@
     "source_text": "His friend's name was Patroclus.",
     "description": "Patroclus alone in a blue tunic, short curly brown hair, warm kind eyes, friendly portrait in Greek courtyard.",
     "alt": "Patroclus alone in a blue tunic, short curly brown hair, warm kind eyes, friendly portrait in Greek courtyard.",
-    "status": "planned",
+    "status": "integrated",
     "batch": 3,
-    "tile": 4
+    "tile": 4,
+    "asset": "assets/ch03-sc01.webp",
+    "width": 410,
+    "height": 410,
+    "grid": "source_images/batch-03-tiles-1-2-3-4-5-6-7-8-9.png",
+    "native_grid_size": [
+      1254,
+      1254
+    ],
+    "review_note": "All nine panels viewed individually at native size. Adults distinct blond Achilles and curly brown-haired Patroclus. Sword grips traced to separate shoulders and forearms; legs attach to hips; ball-play hands have clear owners; seated knees and overlapping friendly hands inspected. No extra limbs, malformed joints, or source contradictions found."
   },
   {
     "id": "ch03-sc02",
@@ -352,9 +388,18 @@
     "source_text": "They played together.",
     "description": "Achilles and Patroclus play together with a simple ball in a sunny courtyard, carefree moment.",
     "alt": "Achilles and Patroclus play together with a simple ball in a sunny courtyard, carefree moment.",
-    "status": "planned",
+    "status": "integrated",
     "batch": 3,
-    "tile": 5
+    "tile": 5,
+    "asset": "assets/ch03-sc02.webp",
+    "width": 410,
+    "height": 410,
+    "grid": "source_images/batch-03-tiles-1-2-3-4-5-6-7-8-9.png",
+    "native_grid_size": [
+      1254,
+      1254
+    ],
+    "review_note": "All nine panels viewed individually at native size. Adults distinct blond Achilles and curly brown-haired Patroclus. Sword grips traced to separate shoulders and forearms; legs attach to hips; ball-play hands have clear owners; seated knees and overlapping friendly hands inspected. No extra limbs, malformed joints, or source contradictions found."
   },
   {
     "id": "ch03-sc03",
@@ -364,9 +409,18 @@
     "source_text": "They trained together.",
     "description": "Achilles and Patroclus train together with wooden practice swords, friendly balanced sparring.",
     "alt": "Achilles and Patroclus train together with wooden practice swords, friendly balanced sparring.",
-    "status": "planned",
+    "status": "integrated",
     "batch": 3,
-    "tile": 6
+    "tile": 6,
+    "asset": "assets/ch03-sc03.webp",
+    "width": 410,
+    "height": 410,
+    "grid": "source_images/batch-03-tiles-1-2-3-4-5-6-7-8-9.png",
+    "native_grid_size": [
+      1254,
+      1254
+    ],
+    "review_note": "All nine panels viewed individually at native size. Adults distinct blond Achilles and curly brown-haired Patroclus. Sword grips traced to separate shoulders and forearms; legs attach to hips; ball-play hands have clear owners; seated knees and overlapping friendly hands inspected. No extra limbs, malformed joints, or source contradictions found."
   },
   {
     "id": "ch03-sc04",
@@ -376,9 +430,18 @@
     "source_text": "They laughed together.",
     "description": "Achilles and Patroclus laugh together sitting on a low stone wall.",
     "alt": "Achilles and Patroclus laugh together sitting on a low stone wall.",
-    "status": "planned",
+    "status": "integrated",
     "batch": 3,
-    "tile": 7
+    "tile": 7,
+    "asset": "assets/ch03-sc04.webp",
+    "width": 410,
+    "height": 410,
+    "grid": "source_images/batch-03-tiles-1-2-3-4-5-6-7-8-9.png",
+    "native_grid_size": [
+      1254,
+      1254
+    ],
+    "review_note": "All nine panels viewed individually at native size. Adults distinct blond Achilles and curly brown-haired Patroclus. Sword grips traced to separate shoulders and forearms; legs attach to hips; ball-play hands have clear owners; seated knees and overlapping friendly hands inspected. No extra limbs, malformed joints, or source contradictions found."
   },
   {
     "id": "ch03-sc05",
@@ -388,9 +451,18 @@
     "source_text": "When Achilles was happy, Patroclus was happy, too.",
     "description": "Happy Achilles smiles at Patroclus, who shares his happiness with a bright smile.",
     "alt": "Happy Achilles smiles at Patroclus, who shares his happiness with a bright smile.",
-    "status": "planned",
+    "status": "integrated",
     "batch": 3,
-    "tile": 8
+    "tile": 8,
+    "asset": "assets/ch03-sc05.webp",
+    "width": 410,
+    "height": 410,
+    "grid": "source_images/batch-03-tiles-1-2-3-4-5-6-7-8-9.png",
+    "native_grid_size": [
+      1254,
+      1254
+    ],
+    "review_note": "All nine panels viewed individually at native size. Adults distinct blond Achilles and curly brown-haired Patroclus. Sword grips traced to separate shoulders and forearms; legs attach to hips; ball-play hands have clear owners; seated knees and overlapping friendly hands inspected. No extra limbs, malformed joints, or source contradictions found."
   },
   {
     "id": "ch03-sc06",
@@ -400,9 +472,18 @@
     "source_text": "When Patroclus had a bad day, Achilles stayed by his side.",
     "description": "Patroclus sits looking sad; Achilles sits close beside him supportively, calm caring scene.",
     "alt": "Patroclus sits looking sad; Achilles sits close beside him supportively, calm caring scene.",
-    "status": "planned",
+    "status": "integrated",
     "batch": 3,
-    "tile": 9
+    "tile": 9,
+    "asset": "assets/ch03-sc06.webp",
+    "width": 410,
+    "height": 410,
+    "grid": "source_images/batch-03-tiles-1-2-3-4-5-6-7-8-9.png",
+    "native_grid_size": [
+      1254,
+      1254
+    ],
+    "review_note": "All nine panels viewed individually at native size. Adults distinct blond Achilles and curly brown-haired Patroclus. Sword grips traced to separate shoulders and forearms; legs attach to hips; ball-play hands have clear owners; seated knees and overlapping friendly hands inspected. No extra limbs, malformed joints, or source contradictions found."
   },
   {
     "id": "ch03-sc07",
