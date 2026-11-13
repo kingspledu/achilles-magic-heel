@@ -790,9 +790,18 @@
     "source_text": "\"I am still too angry to fight,\" he said.",
     "description": "Achilles in ivory teal-edged tunic looks away with a stubborn angry face, refusing to fight.",
     "alt": "Achilles in ivory teal-edged tunic looks away with a stubborn angry face, refusing to fight.",
-    "status": "planned",
+    "status": "integrated",
     "batch": 6,
-    "tile": 1
+    "tile": 1,
+    "asset": "assets/ch05-sc04.webp",
+    "width": 410,
+    "height": 410,
+    "grid": "source_images/batch-06-tiles-1-2-3-4-5-8-9.png",
+    "native_grid_size": [
+      1254,
+      1254
+    ],
+    "review_note": "Native-resolution tiles 1-5,8,9 individually inspected. Folded arms and seated limbs have correct owners, hand on shoulder connects to Achilles arm, borrowed armor belongs to brown-haired Patroclus, sword grips connect to separate arms; fallen figure non-graphic. Tiles6/7 withheld because unrequested horse was added."
   },
   {
     "id": "ch05-sc05",
@@ -802,9 +811,18 @@
     "source_text": "He asked to wear Achilles' armor.",
     "description": "Patroclus gestures toward Achilles ORIGINAL bronze armor with navy cape hanging inside the tent, asking to wear it.",
     "alt": "Patroclus gestures toward Achilles ORIGINAL bronze armor with navy cape hanging inside the tent, asking to wear it.",
-    "status": "planned",
+    "status": "integrated",
     "batch": 6,
-    "tile": 2
+    "tile": 2,
+    "asset": "assets/ch05-sc05.webp",
+    "width": 410,
+    "height": 410,
+    "grid": "source_images/batch-06-tiles-1-2-3-4-5-8-9.png",
+    "native_grid_size": [
+      1254,
+      1254
+    ],
+    "review_note": "Native-resolution tiles 1-5,8,9 individually inspected. Folded arms and seated limbs have correct owners, hand on shoulder connects to Achilles arm, borrowed armor belongs to brown-haired Patroclus, sword grips connect to separate arms; fallen figure non-graphic. Tiles6/7 withheld because unrequested horse was added."
   },
   {
     "id": "ch05-sc06",
@@ -814,9 +832,18 @@
     "source_text": "Achilles thought for a moment.",
     "description": "Achilles sits thinking deeply, conflicted expression, Patroclus waits quietly beside him.",
     "alt": "Achilles sits thinking deeply, conflicted expression, Patroclus waits quietly beside him.",
-    "status": "planned",
+    "status": "integrated",
     "batch": 6,
-    "tile": 3
+    "tile": 3,
+    "asset": "assets/ch05-sc06.webp",
+    "width": 410,
+    "height": 410,
+    "grid": "source_images/batch-06-tiles-1-2-3-4-5-8-9.png",
+    "native_grid_size": [
+      1254,
+      1254
+    ],
+    "review_note": "Native-resolution tiles 1-5,8,9 individually inspected. Folded arms and seated limbs have correct owners, hand on shoulder connects to Achilles arm, borrowed armor belongs to brown-haired Patroclus, sword grips connect to separate arms; fallen figure non-graphic. Tiles6/7 withheld because unrequested horse was added."
   },
   {
     "id": "ch05-sc07",
@@ -826,9 +853,18 @@
     "source_text": "\"Be careful,\" he said. \"Come back safe.\"",
     "description": "Achilles gently holds Patroclus shoulder and looks at him with concern, warning him to return safely.",
     "alt": "Achilles gently holds Patroclus shoulder and looks at him with concern, warning him to return safely.",
-    "status": "planned",
+    "status": "integrated",
     "batch": 6,
-    "tile": 4
+    "tile": 4,
+    "asset": "assets/ch05-sc07.webp",
+    "width": 410,
+    "height": 410,
+    "grid": "source_images/batch-06-tiles-1-2-3-4-5-8-9.png",
+    "native_grid_size": [
+      1254,
+      1254
+    ],
+    "review_note": "Native-resolution tiles 1-5,8,9 individually inspected. Folded arms and seated limbs have correct owners, hand on shoulder connects to Achilles arm, borrowed armor belongs to brown-haired Patroclus, sword grips connect to separate arms; fallen figure non-graphic. Tiles6/7 withheld because unrequested horse was added."
   },
   {
     "id": "ch05-sc08",
@@ -838,9 +874,18 @@
     "source_text": "Patroclus put on the shiny armor.",
     "description": "Brown-curly-haired Patroclus puts on Achilles ORIGINAL bronze armor and navy cape, clearly Patroclus not Achilles.",
     "alt": "Brown-curly-haired Patroclus puts on Achilles ORIGINAL bronze armor and navy cape, clearly Patroclus not Achilles.",
-    "status": "planned",
+    "status": "integrated",
     "batch": 6,
-    "tile": 5
+    "tile": 5,
+    "asset": "assets/ch05-sc08.webp",
+    "width": 410,
+    "height": 410,
+    "grid": "source_images/batch-06-tiles-1-2-3-4-5-8-9.png",
+    "native_grid_size": [
+      1254,
+      1254
+    ],
+    "review_note": "Native-resolution tiles 1-5,8,9 individually inspected. Folded arms and seated limbs have correct owners, hand on shoulder connects to Achilles arm, borrowed armor belongs to brown-haired Patroclus, sword grips connect to separate arms; fallen figure non-graphic. Tiles6/7 withheld because unrequested horse was added."
   },
   {
     "id": "ch05-sc09",
@@ -874,9 +919,18 @@
     "source_text": "They fought.",
     "description": "Hector in rust-red cape and dark-brown-haired Patroclus in borrowed ORIGINAL bronze armor navy cape fight with swords outside Troy, brief tense non-graphic duel, no blood.",
     "alt": "Hector in rust-red cape and dark-brown-haired Patroclus in borrowed ORIGINAL bronze armor navy cape fight with swords outside Troy, brief tense non-graphic duel, no blood.",
-    "status": "planned",
+    "status": "integrated",
     "batch": 6,
-    "tile": 8
+    "tile": 8,
+    "asset": "assets/ch05-sc11.webp",
+    "width": 410,
+    "height": 410,
+    "grid": "source_images/batch-06-tiles-1-2-3-4-5-8-9.png",
+    "native_grid_size": [
+      1254,
+      1254
+    ],
+    "review_note": "Native-resolution tiles 1-5,8,9 individually inspected. Folded arms and seated limbs have correct owners, hand on shoulder connects to Achilles arm, borrowed armor belongs to brown-haired Patroclus, sword grips connect to separate arms; fallen figure non-graphic. Tiles6/7 withheld because unrequested horse was added."
   },
   {
     "id": "ch05-sc12",
@@ -886,9 +940,18 @@
     "source_text": "He was gone.",
     "description": "After their non-graphic duel, Patroclus lies motionless in the borrowed bronze armor navy cape, Hector stands at a respectful distance, no wounds or blood.",
     "alt": "After their non-graphic duel, Patroclus lies motionless in the borrowed bronze armor navy cape, Hector stands at a respectful distance, no wounds or blood.",
-    "status": "planned",
+    "status": "integrated",
     "batch": 6,
-    "tile": 9
+    "tile": 9,
+    "asset": "assets/ch05-sc12.webp",
+    "width": 410,
+    "height": 410,
+    "grid": "source_images/batch-06-tiles-1-2-3-4-5-8-9.png",
+    "native_grid_size": [
+      1254,
+      1254
+    ],
+    "review_note": "Native-resolution tiles 1-5,8,9 individually inspected. Folded arms and seated limbs have correct owners, hand on shoulder connects to Achilles arm, borrowed armor belongs to brown-haired Patroclus, sword grips connect to separate arms; fallen figure non-graphic. Tiles6/7 withheld because unrequested horse was added."
   },
   {
     "id": "ch06-sc01",
