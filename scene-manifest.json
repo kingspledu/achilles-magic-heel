@@ -1708,9 +1708,18 @@
     "source_text": "Their swords went CLANG!",
     "description": "Close-up of the two swords clashing, golden world shield edge visible, bright metallic spark, clear hands.",
     "alt": "Close-up of the two swords clashing, golden world shield edge visible, bright metallic spark, clear hands.",
-    "status": "planned",
+    "status": "integrated",
     "batch": 10,
-    "tile": 1
+    "tile": 1,
+    "asset": "assets/ch08-sc07.webp",
+    "width": 410,
+    "height": 410,
+    "grid": "source_images/batch-10-tiles-1-2-3-4-5-6-7-8-9.png",
+    "native_grid_size": [
+      1254,
+      1254
+    ],
+    "review_note": "All nine tiles individually viewed: crossed swords each have own grip and arm; footwork shows separate armored legs; wide duel has two legs per warrior and clear sword arms; fallen Hector non-graphic. Chariot scene distant shrouded body, horses anatomically coherent. Paris bow holding and separate drawing hand inspected; no extra or merged human limbs."
   },
   {
     "id": "ch08-sc08",
@@ -1720,9 +1729,18 @@
     "source_text": "Their feet moved fast.",
     "description": "Low angle showing the two fighters feet stepping rapidly on dusty ground, brown sandals and bronze greaves.",
     "alt": "Low angle showing the two fighters feet stepping rapidly on dusty ground, brown sandals and bronze greaves.",
-    "status": "planned",
+    "status": "integrated",
     "batch": 10,
-    "tile": 2
+    "tile": 2,
+    "asset": "assets/ch08-sc08.webp",
+    "width": 410,
+    "height": 410,
+    "grid": "source_images/batch-10-tiles-1-2-3-4-5-6-7-8-9.png",
+    "native_grid_size": [
+      1254,
+      1254
+    ],
+    "review_note": "All nine tiles individually viewed: crossed swords each have own grip and arm; footwork shows separate armored legs; wide duel has two legs per warrior and clear sword arms; fallen Hector non-graphic. Chariot scene distant shrouded body, horses anatomically coherent. Paris bow holding and separate drawing hand inspected; no extra or merged human limbs."
   },
   {
     "id": "ch08-sc09",
@@ -1732,9 +1750,18 @@
     "source_text": "The fight was hard.",
     "description": "Wide tense view of the difficult duel, Achilles teal cape and golden shield versus Hector rust-red cape, no blood.",
     "alt": "Wide tense view of the difficult duel, Achilles teal cape and golden shield versus Hector rust-red cape, no blood.",
-    "status": "planned",
+    "status": "integrated",
     "batch": 10,
-    "tile": 3
+    "tile": 3,
+    "asset": "assets/ch08-sc09.webp",
+    "width": 410,
+    "height": 410,
+    "grid": "source_images/batch-10-tiles-1-2-3-4-5-6-7-8-9.png",
+    "native_grid_size": [
+      1254,
+      1254
+    ],
+    "review_note": "All nine tiles individually viewed: crossed swords each have own grip and arm; footwork shows separate armored legs; wide duel has two legs per warrior and clear sword arms; fallen Hector non-graphic. Chariot scene distant shrouded body, horses anatomically coherent. Paris bow holding and separate drawing hand inspected; no extra or merged human limbs."
   },
   {
     "id": "ch08-sc10",
@@ -1744,9 +1771,18 @@
     "source_text": "Hector fell.",
     "description": "Hector has fallen motionless on the ground; Achilles stands victorious in new armor with teal cape, no wounds or gore.",
     "alt": "Hector has fallen motionless on the ground; Achilles stands victorious in new armor with teal cape, no wounds or gore.",
-    "status": "planned",
+    "status": "integrated",
     "batch": 10,
-    "tile": 4
+    "tile": 4,
+    "asset": "assets/ch08-sc10.webp",
+    "width": 410,
+    "height": 410,
+    "grid": "source_images/batch-10-tiles-1-2-3-4-5-6-7-8-9.png",
+    "native_grid_size": [
+      1254,
+      1254
+    ],
+    "review_note": "All nine tiles individually viewed: crossed swords each have own grip and arm; footwork shows separate armored legs; wide duel has two legs per warrior and clear sword arms; fallen Hector non-graphic. Chariot scene distant shrouded body, horses anatomically coherent. Paris bow holding and separate drawing hand inspected; no extra or merged human limbs."
   },
   {
     "id": "ch08-sc11",
@@ -1756,9 +1792,18 @@
     "source_text": "He tied Hector's body to his chariot and dragged it around the city.",
     "description": "Very distant solemn silhouette of Achilles chariot outside Troy dragging a small fully shrouded body behind it; no visible body detail, no blood, no glory, emphasize cruelty and sadness.",
     "alt": "Very distant solemn silhouette of Achilles chariot outside Troy dragging a small fully shrouded body behind it; no visible body detail, no blood, no glory, emphasize cruelty and sadness.",
-    "status": "planned",
+    "status": "integrated",
     "batch": 10,
-    "tile": 5
+    "tile": 5,
+    "asset": "assets/ch08-sc11.webp",
+    "width": 410,
+    "height": 410,
+    "grid": "source_images/batch-10-tiles-1-2-3-4-5-6-7-8-9.png",
+    "native_grid_size": [
+      1254,
+      1254
+    ],
+    "review_note": "All nine tiles individually viewed: crossed swords each have own grip and arm; footwork shows separate armored legs; wide duel has two legs per warrior and clear sword arms; fallen Hector non-graphic. Chariot scene distant shrouded body, horses anatomically coherent. Paris bow holding and separate drawing hand inspected; no extra or merged human limbs."
   },
   {
     "id": "ch08-sc12",
@@ -1768,9 +1813,18 @@
     "source_text": "His anger had taken control.",
     "description": "Achilles alone in NEW armor teal cape after victory, unhappy hollow expression and tense fists, darkening sky, anger has controlled him.",
     "alt": "Achilles alone in NEW armor teal cape after victory, unhappy hollow expression and tense fists, darkening sky, anger has controlled him.",
-    "status": "planned",
+    "status": "integrated",
     "batch": 10,
-    "tile": 6
+    "tile": 6,
+    "asset": "assets/ch08-sc12.webp",
+    "width": 410,
+    "height": 410,
+    "grid": "source_images/batch-10-tiles-1-2-3-4-5-6-7-8-9.png",
+    "native_grid_size": [
+      1254,
+      1254
+    ],
+    "review_note": "All nine tiles individually viewed: crossed swords each have own grip and arm; footwork shows separate armored legs; wide duel has two legs per warrior and clear sword arms; fallen Hector non-graphic. Chariot scene distant shrouded body, horses anatomically coherent. Paris bow holding and separate drawing hand inspected; no extra or merged human limbs."
   },
   {
     "id": "ch09-sc01",
@@ -1780,9 +1834,18 @@
     "source_text": "Achilles was still the strongest fighter.",
     "description": "Achilles in NEW gold-bronze armor teal cape and world shield remains the strongest warrior on the Trojan plain.",
     "alt": "Achilles in NEW gold-bronze armor teal cape and world shield remains the strongest warrior on the Trojan plain.",
-    "status": "planned",
+    "status": "integrated",
     "batch": 10,
-    "tile": 7
+    "tile": 7,
+    "asset": "assets/ch09-sc01.webp",
+    "width": 410,
+    "height": 410,
+    "grid": "source_images/batch-10-tiles-1-2-3-4-5-6-7-8-9.png",
+    "native_grid_size": [
+      1254,
+      1254
+    ],
+    "review_note": "All nine tiles individually viewed: crossed swords each have own grip and arm; footwork shows separate armored legs; wide duel has two legs per warrior and clear sword arms; fallen Hector non-graphic. Chariot scene distant shrouded body, horses anatomically coherent. Paris bow holding and separate drawing hand inspected; no extra or merged human limbs."
   },
   {
     "id": "ch09-sc02",
@@ -1792,9 +1855,18 @@
     "source_text": "One day, Paris, a prince of Troy, took his bow.",
     "description": "Paris, slim young Trojan prince with straight chin-length black hair and violet tunic, takes his wooden bow near Troy.",
     "alt": "Paris, slim young Trojan prince with straight chin-length black hair and violet tunic, takes his wooden bow near Troy.",
-    "status": "planned",
+    "status": "integrated",
     "batch": 10,
-    "tile": 8
+    "tile": 8,
+    "asset": "assets/ch09-sc02.webp",
+    "width": 410,
+    "height": 410,
+    "grid": "source_images/batch-10-tiles-1-2-3-4-5-6-7-8-9.png",
+    "native_grid_size": [
+      1254,
+      1254
+    ],
+    "review_note": "All nine tiles individually viewed: crossed swords each have own grip and arm; footwork shows separate armored legs; wide duel has two legs per warrior and clear sword arms; fallen Hector non-graphic. Chariot scene distant shrouded body, horses anatomically coherent. Paris bow holding and separate drawing hand inspected; no extra or merged human limbs."
   },
   {
     "id": "ch09-sc03",
@@ -1804,9 +1876,18 @@
     "source_text": "He saw Achilles.",
     "description": "Paris spots distant golden-haired Achilles in NEW gold-bronze armor teal cape across the field.",
     "alt": "Paris spots distant golden-haired Achilles in NEW gold-bronze armor teal cape across the field.",
-    "status": "planned",
+    "status": "integrated",
     "batch": 10,
-    "tile": 9
+    "tile": 9,
+    "asset": "assets/ch09-sc03.webp",
+    "width": 410,
+    "height": 410,
+    "grid": "source_images/batch-10-tiles-1-2-3-4-5-6-7-8-9.png",
+    "native_grid_size": [
+      1254,
+      1254
+    ],
+    "review_note": "All nine tiles individually viewed: crossed swords each have own grip and arm; footwork shows separate armored legs; wide duel has two legs per warrior and clear sword arms; fallen Hector non-graphic. Chariot scene distant shrouded body, horses anatomically coherent. Paris bow holding and separate drawing hand inspected; no extra or merged human limbs."
   },
   {
     "id": "ch09-sc04",
