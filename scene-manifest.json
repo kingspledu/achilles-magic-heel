@@ -154,7 +154,7 @@
     "source_text": "She held Achilles by one heel and dipped him into the water.",
     "description": "Thetis holds the baby securely by ONE heel and dips his body into the shallow luminous magical water, clear side view.",
     "alt": "Thetis holds the baby securely by ONE heel and dips his body into the shallow luminous magical water, clear side view.",
-    "status": "planned",
+    "status": "integrated",
     "batch": 1,
     "tile": 8,
     "asset": "assets/ch01-sc08.webp",
@@ -165,7 +165,7 @@
       1254,
       1254
     ],
-    "review_note": "REJECTED after user review: second leg not separately visible. Awaiting two-legged revision."
+    "review_note": "Both revised tiles viewed individually at native size. In EACH tile two separate thighs originate at pelvis, two knees, two calves, two feet visible: one leg straight and heel held, other leg bent outward with free foot and clear gap. Exactly two arms attach to two shoulders and terminate in two hands. No hidden second leg, no extra shoulder limb."
   },
   {
     "id": "ch01-sc09",
@@ -175,7 +175,7 @@
     "source_text": "Splash!",
     "description": "Close view of water splashing gently around baby Achilles during the magical dip, his held heel above water.",
     "alt": "Close view of water splashing gently around baby Achilles during the magical dip, his held heel above water.",
-    "status": "planned",
+    "status": "integrated",
     "batch": 1,
     "tile": 9,
     "asset": "assets/ch01-sc09.webp",
@@ -186,7 +186,7 @@
       1254,
       1254
     ],
-    "review_note": "REJECTED after user review: second leg not separately visible. Awaiting two-legged revision."
+    "review_note": "Both revised tiles viewed individually at native size. In EACH tile two separate thighs originate at pelvis, two knees, two calves, two feet visible: one leg straight and heel held, other leg bent outward with free foot and clear gap. Exactly two arms attach to two shoulders and terminate in two hands. No hidden second leg, no extra shoulder limb."
   },
   {
     "id": "ch01-sc10",
